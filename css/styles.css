@@ -1,0 +1,75 @@
+
+body {
+    margin: 0;
+    text-align: center;
+font-family: "Merriweather",serif;
+color: white;
+
+  }
+  
+  h1 { color: crimson;
+    display: inline;
+    border: 3px solid;
+    width:10%;
+    margin:0 auto 0 auto;
+    font-family: "Times New Roman"; font-size: 30px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 25px;
+    
+  }
+  h2 {font-family: "Times New Roman"; font-size: 30px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 25px;
+  margin-left: 100px;}
+  h3 {font-family: "Times New Roman"; font-size: 50px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 25px;
+  ;}
+  h6 {font-family: "Times New Roman"; font-size: 36px; font-style: italic; font-variant: normal; font-weight: 100; line-height: 39.6px; } h3 { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;}
+  
+  .top-container {
+    background-color: #303841; 
+  }
+  
+  
+  .middle-container {background-color: #4d4545;
+    
+   
+  }
+  
+  .bottom-container {
+    
+  }
+  .bottom-cloud {
+    position: absolute;
+  }
+  .top-cloud {position: relative;
+  margin-left: 570px;
+  margin: top 50px;}
+  .profile {background-color: #4d4545;}
+  .comfort {margin-right: 700px;
+  margin-top: 100px;
+  margin-bottom: -18px;
+}
+  .vip {margin-left: 410px;
+  margin-top: -550px;}
+  .price {margin-right: 110px;
+    color: red;
+}
+.skills {background-color:#4d4545 ;}
+.hop1 {background-color: #b83b5e;}
+  .text1{background-color: #f67280;
+  }
+  .text2 {background-color:#4d4545 ;
+  margin-right: 100px;}
+  
+  .contact{margin-left: 5px;}
+  .price {margin-left: 200px;}
+  .watsapp{background-color: greenyellow;}
+  .Местоположение {background-color: floralwhite;}
+  
+ 
+
+
+
+
+
+
+    
+
+        
+    
